@@ -30,6 +30,9 @@ menu:
   - name: Notes
     slug: notes
     url: /spring-cloud-微服务架构进阶-读书笔记
+  - name: TodoList
+    slug: todoList
+    url: /todoList
   - name: About
     slug: about
     url: /about
